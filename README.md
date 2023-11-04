@@ -1,4 +1,4 @@
-# EX-02-4d    SUM OF EVEN DIGITS
+# EX-2(D)   SUM OF EVEN DIGITS
 
 ## AIM:
 To write a c program to find the sum of even digits using for loop.
